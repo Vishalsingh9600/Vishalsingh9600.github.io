@@ -18,4 +18,8 @@ Settings → Pages → Deploy from a branch → `main` → `/ (root)`.
 ## Contact
 Email: vishalsingh42096@gmail.com
 GitHub: https://github.com/Vishalsingh9600
-LinkedIn: https://linkedin.com/in/w-f-vishal-singh-62796024a
+LinkedIn: https://www.linkedin.com/in/vishal-singh-w-f-62796024a
+
+
+### Profile Photo
+The portfolio includes the professional profile photo at `assets/vishal-profile.jpg` and displays it in the hero and About sections.
